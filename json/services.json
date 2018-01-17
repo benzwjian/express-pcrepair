@@ -1,0 +1,17 @@
+[
+	{
+		"name": "Hardware Repaire",
+		"description": "bala",
+		"price_range": "$100-$200"
+	},
+	{
+		"name": "Software Repaire",
+		"description": "bala",
+		"price_range": "$100-$200"
+	},
+	{
+		"name": "Firmware Repaire",
+		"description": "bala",
+		"price_range": "$100-$200"
+	}
+]
